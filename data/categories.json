@@ -1,0 +1,69 @@
+[
+  {
+      "id": 1,
+      "title": "Web Development",
+      "price": 195.99,
+      "description": "Web development bootcamps typically take about 3-4 months to complete and teach HTML, CSS, and JavaScript. Full-stack bootcamps may also teach SQL, Python, or other back-end coding languages. Coding bootcamps typically also cost less than a four-year degree program, but there is little financial aid available.",
+      "category": "men's clothing",
+      "image": "https://i.ytimg.com/vi/Q33KBiDriJY/maxresdefault.jpg",
+      "rating": {
+          "rate": 3.9,
+          "count": 120
+      }
+  },
+  {
+      "id": 2,
+      "title": "App Development",
+      "price": 210,
+      "description": "On average, apps can take anywhere between three and nine months to develop, depending on the complexity of the app and structure of your project. Each stage in the process takes different amounts of time to complete, but the most time-consuming of these tend to include: Writing a project brief: one or two weeks.",
+      "image": "https://www.techbrains.net/wp-content/uploads/2022/05/mobile-app-banner.jpg",
+      "rating": {
+          "rate": 4.1,
+          "count": 259
+      }
+  },
+  {
+      "id": 3,
+      "title": "Ios Development",
+      "price": 250,
+      "description": "How Long Does It Take to Become an iOS Developer? It takes about three months to one year to get a solid knowledge of iOS development. However, it could take up to four years if you opt for a bachelor's degree. Another factor that will influence your timetable is the amount of tech knowledge you currently possess.",
+      "image": "https://www.systematixinfotech.com/wp-content/uploads/Many-reasons-why-expert-iPhone-App-Development-Services-makes-sense-for-most-of-the-businesses..png",
+      "rating": {
+          "rate": 4.7,
+          "count": 500
+      }
+  },
+  {
+      "id": 4,
+      "title": "Graphic Design",
+      "price": 85.99,
+      "description": "On average, the typical beginner takes between two and three months to learn Photoshop. Of course, this doesn't mean they have an intricate understanding of every tool or advanced technique. It does mean that they should be able to independently navigate the interface to complete edits and create graphics successfully.",
+      "image": "https://www.moople.in/blog/wp-content/uploads/2022/07/graphic-designer-courses.jpeg",
+      "rating": {
+          "rate": 2.1,
+          "count": 430
+      }
+  },
+  {
+      "id": 5,
+      "title": "Video Editing",
+      "price": 150.99,
+      "description": "Video editors are in high demand in today's era of film, television, and digital media; after all, they are responsible for turning all that footage into content. Editing requires technical skill and a familiarity with the production process, but opportunities to develop both are readily available on the internet.",
+      "image": "https://www.venturelessons.com/wp-content/uploads/2020/04/video-editing.png",
+      "rating": {
+          "rate": 2.1,
+          "count": 430
+      }
+  },
+  {
+      "id": 6,
+      "title": "Digital Marketing",
+      "price": 135.99,
+      "description": "There are no particular eligibility criteria for Digital Marketing, anyone can be a digital marketer. Anyone from any background can learn it. Anyone freshers, working professionals, Housewives, or Business Owners can learn Digital Marketing.",
+      "image": "https://img.freepik.com/premium-vector/digital-marketing-poster-design_564446-107.jpg",
+      "rating": {
+          "rate": 2.1,
+          "count": 430
+      }
+  }
+]
